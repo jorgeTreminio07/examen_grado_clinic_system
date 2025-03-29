@@ -1,0 +1,3 @@
+[submodule "clinic_back"]
+	path = clinic_back
+	url = https://github.com/jorgeTreminio07/clinic_back.git
